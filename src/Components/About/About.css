@@ -1,0 +1,442 @@
+
+.about{
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.a{
+    color: rgb(120, 119, 119);
+}
+.profile{
+    width: 50%;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.icon{
+    width: 50px;
+}
+.name{
+    text-shadow: 2px 2px 5px red;
+}
+h3{
+   color: rgb(112, 111, 111);
+}
+.my-image{
+    width: 50%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.image3{
+    height: 45%;
+    overflow: hidden;
+    border-radius: 50%;
+    /* box-shadow: 0 6px 20px 0 rgba(251, 4, 4, 0.2), 0 10px 20px 0 rgba(249, 2, 2, 0.19); */
+    box-shadow: 0 0 30px 10px rgba(255, 0, 0, 0.5);
+ 
+}
+.image3:hover{
+    box-shadow: none;
+}
+.vishal{
+    width: 100%;
+    height: 100%;
+}
+.text3{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+    justify-content: space-evenly;
+   text-align: center;
+}
+.buttons{
+    width: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+button{
+    width: 110px;
+    height: 33px;
+    border-radius: 40px;
+    color: red;
+   
+    font-size: 14px;
+    
+    border: 2px solid rgb(149, 10, 10);
+    
+   
+}
+.know-more{
+    width: 100%;
+    height: 100vh;
+    
+}
+.heading1{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+}
+.content1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+   
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.container1{
+    width: 30%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    border: 2px solid rgb(98, 98, 98);
+    border-radius: 20px;
+    box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.container2{
+    width: 30%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    border: 2px solid rgb(98, 98, 98);
+    border-radius: 20px;
+    box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.container1:hover{
+    box-shadow: none;
+}
+.container2:hover{
+    box-shadow: none;
+}
+.container3{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.text2{
+    width: 75%;
+}
+.content3{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.soft-skills{
+    width: 70%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.skill1{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    text-align: center;
+    border-radius: 15px;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.skill1:hover{
+   box-shadow: none;
+}
+.skill2:hover{
+    box-shadow: none;
+ }
+ .skill3:hover{
+    box-shadow: none;
+ }
+ .skill4:hover{
+    box-shadow: none;
+ }
+ .skill5:hover{
+    box-shadow: none;
+ }
+ .interest1:hover{
+    box-shadow: none;
+ }
+ .interest2:hover{
+     box-shadow: none;
+  }
+  .interest4:hover{
+     box-shadow: none;
+  }
+  .interest3:hover{
+     box-shadow: none;
+  }
+  .interest5:hover{
+     box-shadow: none;
+  }
+.skill2{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    border-radius: 15px;
+    text-align: center;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.skill3{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    text-align: center;
+    border-radius: 15px;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.skill4{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    text-align: center;
+    border-radius: 15px;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.skill5{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border:2px solid rgb(98, 98, 98);
+    text-align: center;
+    border-radius: 15px;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+
+.content4{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.interests{
+    width: 70%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.interest1{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    text-align: center;
+    border-radius: 15px;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.interest2{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    border-radius: 15px;
+    text-align: center;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.interest3{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    text-align: center;
+    border-radius: 15px;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.interest4{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    text-align: center;
+    border-radius: 15px;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.interest5{
+    width: 18%;
+    height: 60%;
+    padding: 20px;
+    border: 2px solid rgb(98, 98, 98);
+    text-align: center;
+    border-radius: 15px;
+   box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+}
+.heading2{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+}
+@media screen and (max-width:900px) {
+   .about{
+    height: 80vh;
+   }
+    .profile{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+   
+    .my-image{
+        width: 100%;
+        height: 60%;
+    }
+    .text3{
+        width: auto;
+        height: 30%;
+    }
+    .image3{
+        width: 65%;
+    height: 60%;
+    }
+    .know-more{
+        height: 150vh;
+    }
+    .content1{
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .container1{
+        height: 17vh;
+        width: 60%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .container2{
+        width: 80%;
+        padding: 10px;
+        height: 40vh;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .content3{
+        height: 120vh;
+      
+       
+
+    }
+    .soft-skills{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+       
+    }
+    .skill1{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .skill2{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .skill3{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .skill4{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .skill5{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .content4{
+        height: 100vh;
+    }
+    .interests{
+        width: 100%;
+        height: 90%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-evenly;
+        
+    }
+    .interest1{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .interest2{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .interest3{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .interest4{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .interest5{
+        width: 78%;
+        height: 19%;
+       box-shadow: 0 0 30px 6px rgba(255, 0, 0, 0.5);
+    }
+    .container3{
+        height: 20%;
+    }
+    
+
+}
+
+
+@media screen and (max-width:740px){
+    .image3{
+    width: 65%;
+    height: 64%;
+    }
+}
+@media screen and (max-width:667px){
+    .image3{
+        width: 63%;
+        height: 73%;
+        }
+}
+@media screen and (max-width:600px){
+    .image3{
+        width: 63%;
+        height: 73%;
+        }
+}
+

@@ -1,0 +1,67 @@
+.form-container{
+    width: 100%;
+    height: auto;
+    position:static;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.heading1{
+    margin-top: 60px;
+}
+.linkedin{
+    margin-top: 30px;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 68%;
+    height: 400px;
+    box-shadow: 0 0 30px 10px rgba(255, 0, 0, 0.5);
+}
+.linkedin:hover{
+    box-shadow: none;
+}
+
+form{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    row-gap: 10px;
+}
+input{
+    transition: all 0.3s ease;
+    border-radius: 20px;
+    width: 300px;
+    border: 2px solid rgb(112, 112, 112);
+    padding: 5px;
+    padding-left: 20px;
+    border-color: #9c0303;
+    font-size: 14px;
+}
+input::placeholder{
+    color: rgb(251, 249, 249);
+    opacity: 0.4;
+}
+textarea{
+    padding: 10px;
+    width: 290px;
+    border: 2px solid rgb(112, 112, 112);
+    border-color: #9c0303;
+}
+label{
+    font-size: 15px;
+}
+
+@media screen and (max-width:900px){
+    .form-container{
+        height: 70vh;
+    }
+    .heading1{
+        display: none;
+    }
+    .linkedin{
+        display: none;
+    }
+}
