@@ -34,6 +34,7 @@ input{
     transition: all 0.3s ease;
     border-radius: 20px;
     width: 300px;
+    background-color:transparent;
     border: 2px solid rgb(112, 112, 112);
     padding: 5px;
     padding-left: 20px;
@@ -47,6 +48,7 @@ input::placeholder{
 textarea{
     padding: 10px;
     width: 290px;
+     background-color:transparent;
     border: 2px solid rgb(112, 112, 112);
     border-color: #9c0303;
 }
