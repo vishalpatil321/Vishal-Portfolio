@@ -15,11 +15,11 @@ export const Footer = () => {
             </div>
          <div className="logo-container">
             <div className="logo">
-              <a href="https://www.linkedin.com/in/%F0%9D%99%91%F0%9D%99%9E%F0%9D%99%A8%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A1-%F0%9D%98%BF%F0%9D%99%9D%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%9A-34419a289/"><h2><FaLinkedin/></h2></a>
-              <a href="https://github.com/vishalpatil321"><h2><FaGithub/></h2></a>
-              <a href="https://www.instagram.com/02coolvishal/?next=%2F"><h2><FaInstagram/></h2></a>
-              <a href="https://leetcode.com/u/vishaldhone/"><h2><SiLeetcode /></h2></a>
-              <a href="https://www.geeksforgeeks.org/user/user_x0he3lqf5ar/"><h2><SiGeeksforgeeks /></h2></a>
+              <a href="https://www.linkedin.com/in/%F0%9D%99%91%F0%9D%99%9E%F0%9D%99%A8%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A1-%F0%9D%98%BF%F0%9D%99%9D%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%9A-34419a289/"><h2 className="f-logo"><FaLinkedin/></h2></a>
+              <a href="https://github.com/vishalpatil321"><h2 className="f-logo"><FaGithub/></h2></a>
+              <a href="https://www.instagram.com/02coolvishal/?next=%2F"><h2 className="f-logo"><FaInstagram/></h2></a>
+              <a href="https://leetcode.com/u/vishaldhone/"><h2 className="f-logo"><SiLeetcode /></h2></a>
+              <a href="https://www.geeksforgeeks.org/user/user_x0he3lqf5ar/"><h2 className="f-logo"><SiGeeksforgeeks /></h2></a>
             
             </div>
         </div>
